@@ -12,7 +12,7 @@ PDF_FOLDERS = [
 FAISS_PATH = r"C:\RealEstateRAG\faiss_database"
 
 # Your API key
-OPENROUTER_API_KEY = "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"
+OPENROUTER_API_KEY = "your open_router_api key"
 
 # Model settings
 MODEL_NAME = "openai/gpt-3.5-turbo"
